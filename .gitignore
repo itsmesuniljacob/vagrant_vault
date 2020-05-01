@@ -1,0 +1,6 @@
+01-ansible-sysadmin/
+.vagrant
+Vagrantfile_old
+dev
+control.pub
+ansible.cfg
